@@ -1,0 +1,27 @@
+<style>
+.third-para{
+    background-color: plum;
+    height: 4em;
+    border: 2px solid black;
+
+}
+.first-para{
+  background-color: whitesmoke;
+  height:2em;
+  border:2px solid black;
+
+
+}
+div{
+    background-color: aqua;
+    border: 2px solid black;
+}
+table{
+
+    background-color: plum;
+    border: 2px solid whitesmoke;
+}
+
+
+</style>
+
